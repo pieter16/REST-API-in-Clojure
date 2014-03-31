@@ -1,4 +1,4 @@
-# vallen
+# vallen-api
 
 A [Heroku](http://www.heroku.com) web app using Compojure.
 
